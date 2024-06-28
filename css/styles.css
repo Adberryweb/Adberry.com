@@ -15,10 +15,6 @@ body {
     background: linear-gradient(to bottom, #ff9a9e, #fad0c4);
 }
 
-p {
-    margin-bottom: 50px;
-}
-
 header {
     background: #ff6f91;
     color: #fff;
