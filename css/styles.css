@@ -5,6 +5,10 @@
     padding: 0;
 }
 
+.container {
+    margin-bottom: 100px; /* Espacio entre contenedores */
+}
+
 body {
     font-family: 'Cursive', sans-serif;
     background: #fff;
